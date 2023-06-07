@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\bin\Debug\net6.0\task54hw.exe
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\bin\Debug\net6.0\task54hw.deps.json
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\bin\Debug\net6.0\task54hw.runtimeconfig.json
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\bin\Debug\net6.0\task54hw.dll
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\bin\Debug\net6.0\task54hw.pdb
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\obj\Debug\net6.0\task54hw.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\obj\Debug\net6.0\task54hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\obj\Debug\net6.0\task54hw.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\obj\Debug\net6.0\task54hw.AssemblyInfo.cs
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\obj\Debug\net6.0\task54hw.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\obj\Debug\net6.0\task54hw.dll
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\obj\Debug\net6.0\refint\task54hw.dll
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\obj\Debug\net6.0\task54hw.pdb
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\obj\Debug\net6.0\task54hw.genruntimeconfig.cache
+C:\Users\user\Desktop\Разработчик\Семинар C#\task54hw\obj\Debug\net6.0\ref\task54hw.dll
